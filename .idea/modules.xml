@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Addition/Addition.iml" filepath="$PROJECT_DIR$/Addition/Addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcf.swathi/gcf.swathi.iml" filepath="$PROJECT_DIR$/gcf.swathi/gcf.swathi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largest.swathi/largest.swathi.iml" filepath="$PROJECT_DIR$/largest.swathi/largest.swathi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swap.swathi/swap.swathi.iml" filepath="$PROJECT_DIR$/swap.swathi/swap.swathi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi even or odd/swathi even or odd.iml" filepath="$PROJECT_DIR$/swathi even or odd/swathi even or odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi even or odd number/swathi even or odd number.iml" filepath="$PROJECT_DIR$/swathi even or odd number/swathi even or odd number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.addition/swathi.addition.iml" filepath="$PROJECT_DIR$/swathi.addition/swathi.addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.alphabet/swathi.alphabet.iml" filepath="$PROJECT_DIR$/swathi.alphabet/swathi.alphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.factirial/swathi.factirial.iml" filepath="$PROJECT_DIR$/swathi.factirial/swathi.factirial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.lcm/swathi.lcm.iml" filepath="$PROJECT_DIR$/swathi.lcm/swathi.lcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.multiplication/swathi.multiplication.iml" filepath="$PROJECT_DIR$/swathi.multiplication/swathi.multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swathi.vowel/swathi.vowel.iml" filepath="$PROJECT_DIR$/swathi.vowel/swathi.vowel.iml" />
+    </modules>
+  </component>
+</project>
